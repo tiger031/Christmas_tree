@@ -1,6 +1,6 @@
 # Christmas_tree
 Christmas tree on LEDs using STM8S003F MCU and PCA9535 I2C  Low-Power I/O Expander.
-Project created in IAR Workbench with HAL STM8 library. 
+Project created in IAR Workbench with HAL STM8 library. PCB designed in KiCad.
 
 https://youtu.be/6ry-IiM5UFg
 
